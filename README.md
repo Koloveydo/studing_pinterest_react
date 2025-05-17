@@ -1,2 +1,2 @@
 # studing_pinterest_react
-Studing project. The main goal is to create copy of famos messager Pinterest 
+Studing project. The main goal is to create copy of famos messenger Pinterest 
