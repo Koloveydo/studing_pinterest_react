@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "id": "bc47",
+      "name": "Vlad Koloveydo",
+      "count": 2,
+      "weight": "325235",
+      "size": {
+        "width": 2,
+        "height": 2
+      },
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "9213",
+      "name": "efds",
+      "count": 32,
+      "weight": "23532",
+      "size": {
+        "width": 325,
+        "height": 235
+      },
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2bf3",
+      "name": "efds",
+      "count": 12412,
+      "weight": "23532",
+      "size": {
+        "width": 325,
+        "height": 235
+      },
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4383",
+      "name": "efds",
+      "count": 2424124,
+      "weight": "23532",
+      "size": {
+        "width": 325,
+        "height": 235
+      },
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "10f4",
+      "name": "Vlad Koloveydo",
+      "count": 32523,
+      "weight": "325325",
+      "size": {
+        "width": 3252,
+        "height": 325352
+      },
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "ff84",
+      "name": "Vlad Koloveydo",
+      "count": 253,
+      "weight": "235325",
+      "size": {
+        "width": 235235,
+        "height": 352325235
+      },
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "1f41",
+      "name": "Vlad Koloveydo",
+      "count": 345,
+      "weight": "235325",
+      "size": {
+        "width": 235235,
+        "height": 352325235
+      },
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "cd4e",
+      "name": "Vlad Koloveydo",
+      "count": 11,
+      "weight": "235325",
+      "size": {
+        "width": 235235,
+        "height": 352325235
+      },
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "b3de",
+      "name": "Vlad Koloveydo",
+      "count": 11,
+      "weight": "235325",
+      "size": {
+        "width": 235235,
+        "height": 352325235
+      },
+      "imageUrl": "https://via.placeholder.com/150"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "productId": 1,
+      "description": "Це коментар 1, для продукту 1",
+      "date": "12:00 25.05.2025"
+    },
+    {
+      "id": "2",
+      "productId": 1,
+      "description": "Це коментар 2, для продукту 1",
+      "date": "13:00 25.05.2025"
+    },
+    {
+      "id": "3",
+      "productId": 2,
+      "description": "Це коментар 3 для продукту 2",
+      "date": "10:00 26.05.2025"
+    }
+  ]
+}
